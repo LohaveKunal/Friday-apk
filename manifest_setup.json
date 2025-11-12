@@ -1,0 +1,11 @@
+{
+  "app_name": "Friday AI Assistant",
+  "version": "1.0",
+  "package": "com.friday.assistant",
+  "entry": "main.py",
+  "permissions": [
+    "INTERNET",
+    "RECORD_AUDIO",
+    "ACCESS_NETWORK_STATE"
+  ]
+}
